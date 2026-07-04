@@ -1,0 +1,63 @@
+﻿product_code,sap_material_no,sku_name,brand_family,category,pack_size,units_per_case,returnable_flag,product_status,list_price_case,standard_cost_case,barcode
+SKU0001,MAT100001,Cola Max 35cl PET x12,Cola Max,Carbonated Soft Drink,35cl PET,12,Y,Active,1780,1090,6158411566974
+SKU0002,MAT100002,Cola Max 35cl PET x24,Cola Max,Carbonated Soft Drink,35cl PET,24,N,Active,3240,1920,6159247563434
+SKU0003,MAT100003,Cola Max 50cl PET x12,Cola Max,Carbonated Soft Drink,50cl PET,12,N,Active,1970,1380,6157209074766
+SKU0004,MAT100004,Cola Max 50cl PET x24,Cola Max,Carbonated Soft Drink,50cl PET,24,Y,Active,3650,2150,6156354547372
+SKU0005,MAT100005,Cola Max 60cl PET x12,Cola Max,Carbonated Soft Drink,60cl PET,12,Y,Active,2240,1350,6157961725759
+SKU0006,MAT100006,Cola Max 60cl PET x24,Cola Max,Carbonated Soft Drink,60cl PET,24,N,Active,4380,2540,6150529561848
+SKU0007,MAT100007,Cola Max 1L PET x12,Cola Max,Carbonated Soft Drink,1L PET,12,N,Active,3140,1910,6159281045618
+SKU0008,MAT100008,Cola Max 1L PET x24,Cola Max,Carbonated Soft Drink,1L PET,24,Y,Inactive,5990,3420,6157672544893
+SKU0009,MAT100009,Cola Max 1.5L PET x12,Cola Max,Carbonated Soft Drink,1.5L PET,12,Y,Active,4080,2390,6152611004522
+SKU0010,MAT100010,Cola Max 1.5L PET x24,Cola Max,Carbonated Soft Drink,1.5L PET,24,N,Active,7500,4420,6152758112121
+SKU0011,MAT100011,Cola Max 50cl Can x12,Cola Max,Carbonated Soft Drink,50cl Can,12,N,Active,1900,1310,6159443425458
+SKU0012,MAT100012,Cola Max 50cl Can x24,Cola Max,Carbonated Soft Drink,50cl Can,24,N,Active,3760,2210,6156850785715
+SKU0013,MAT100013,Lemon Lime 35cl PET x12,Lemon Lime,Carbonated Soft Drink,35cl PET,12,N,Active,1700,1100,6156403368362
+SKU0014,MAT100014,Lemon Lime 35cl PET x24,Lemon Lime,Carbonated Soft Drink,35cl PET,24,Y,Active,3280,1980,6153945965413
+SKU0015,MAT100015,Lemon Lime 50cl PET x12,Lemon Lime,Carbonated Soft Drink,50cl PET,12,N,Active,2080,1220,6155946196215
+SKU0016,MAT100016,Lemon Lime 50cl PET x24,Lemon Lime,Carbonated Soft Drink,50cl PET,24,Y,Active,3680,2550,6151961927444
+SKU0017,MAT100017,Lemon Lime 60cl PET x12,Lemon Lime,Carbonated Soft Drink,60cl PET,12,Y,Active,2300,1630,6155882749582
+SKU0018,MAT100018,Lemon Lime 60cl PET x24,Lemon Lime,Carbonated Soft Drink,60cl PET,24,N,Active,4090,2560,6154373989238
+SKU0019,MAT100019,Lemon Lime 1L PET x12,Lemon Lime,Carbonated Soft Drink,1L PET,12,N,Active,3080,2060,6158368940558
+SKU0020,MAT100020,Lemon Lime 1L PET x24,Lemon Lime,Carbonated Soft Drink,1L PET,24,N,Active,5940,4190,6150189072630
+SKU0021,MAT100021,Lemon Lime 1.5L PET x12,Lemon Lime,Carbonated Soft Drink,1.5L PET,12,N,Active,3930,2580,6158456262209
+SKU0022,MAT100022,Lemon Lime 1.5L PET x24,Lemon Lime,Carbonated Soft Drink,1.5L PET,24,Y,Active,7550,5040,6159072315571
+SKU0023,MAT100023,Lemon Lime 50cl Can x12,Lemon Lime,Carbonated Soft Drink,50cl Can,12,N,Active,1900,1120,6159142208961
+SKU0024,MAT100024,Lemon Lime 50cl Can x24,Lemon Lime,Carbonated Soft Drink,50cl Can,24,N,Inactive,3630,2180,6159643981332
+SKU0025,MAT100025,Orange Burst 35cl PET x12,Orange Burst,Carbonated Soft Drink,35cl PET,12,Y,Active,1750,1160,6152567064927
+SKU0026,MAT100026,Orange Burst 35cl PET x24,Orange Burst,Carbonated Soft Drink,35cl PET,24,N,Active,3150,1830,6152776106070
+SKU0027,MAT100027,Orange Burst 50cl PET x12,Orange Burst,Carbonated Soft Drink,50cl PET,12,Y,Active,1970,1180,6157115959828
+SKU0028,MAT100028,Orange Burst 50cl PET x24,Orange Burst,Carbonated Soft Drink,50cl PET,24,N,Active,3650,2220,6151919879983
+SKU0029,MAT100029,Orange Burst 60cl PET x12,Orange Burst,Carbonated Soft Drink,60cl PET,12,Y,Active,2400,1370,6153723636469
+SKU0030,MAT100030,Orange Burst 60cl PET x24,Orange Burst,Carbonated Soft Drink,60cl PET,24,Y,Active,4110,2700,6154761009125
+SKU0031,MAT100031,Orange Burst 1L PET x12,Orange Burst,Carbonated Soft Drink,1L PET,12,N,Active,3070,2080,6159471404490
+SKU0032,MAT100032,Orange Burst 1L PET x24,Orange Burst,Carbonated Soft Drink,1L PET,24,N,Active,5570,3290,6153939602998
+SKU0033,MAT100033,Orange Burst 1.5L PET x12,Orange Burst,Carbonated Soft Drink,1.5L PET,12,Y,Active,3810,2480,6150721507228
+SKU0034,MAT100034,Orange Burst 1.5L PET x24,Orange Burst,Carbonated Soft Drink,1.5L PET,24,Y,Active,7150,4660,6152995718137
+SKU0035,MAT100035,Bitter Lemon 35cl PET x12,Bitter Lemon,Carbonated Soft Drink,35cl PET,12,Y,Active,1730,970,6157574751590
+SKU0036,MAT100036,Bitter Lemon 35cl PET x24,Bitter Lemon,Carbonated Soft Drink,35cl PET,24,N,Active,3220,2300,6150446490060
+SKU0037,MAT100037,Bitter Lemon 50cl PET x12,Bitter Lemon,Carbonated Soft Drink,50cl PET,12,N,Active,1950,1270,6152547168584
+SKU0038,MAT100038,Bitter Lemon 50cl PET x24,Bitter Lemon,Carbonated Soft Drink,50cl PET,24,N,Active,3840,2410,6154046319080
+SKU0039,MAT100039,Bitter Lemon 50cl Can x12,Bitter Lemon,Carbonated Soft Drink,50cl Can,12,N,Active,1910,1230,6155531367879
+SKU0040,MAT100040,Bitter Lemon 50cl Can x24,Bitter Lemon,Carbonated Soft Drink,50cl Can,24,N,Active,3700,2350,6151483512245
+SKU0041,MAT100041,Tonic Water 33cl Can x12,Tonic Water,Mixer,33cl Can,12,N,Active,2160,1440,6155666027931
+SKU0042,MAT100042,Tonic Water 33cl Can x24,Tonic Water,Mixer,33cl Can,24,N,Active,3620,2030,6157905341339
+SKU0043,MAT100043,Tonic Water 50cl PET x12,Tonic Water,Mixer,50cl PET,12,N,Active,2490,1440,6157004464253
+SKU0044,MAT100044,Tonic Water 50cl PET x24,Tonic Water,Mixer,50cl PET,24,N,Active,4240,2760,6155329029772
+SKU0045,MAT100045,Aqua Pure 50cl PET x12,Aqua Pure,Water,50cl PET,12,N,Active,960,600,6151525633744
+SKU0046,MAT100046,Aqua Pure 50cl PET x24,Aqua Pure,Water,50cl PET,24,N,Active,1730,1080,6154624919463
+SKU0047,MAT100047,Aqua Pure 75cl PET x12,Aqua Pure,Water,75cl PET,12,N,Active,1150,720,6154087270651
+SKU0048,MAT100048,Aqua Pure 75cl PET x24,Aqua Pure,Water,75cl PET,24,N,Active,2180,1550,6156112117096
+SKU0049,MAT100049,Aqua Pure 1.5L PET x12,Aqua Pure,Water,1.5L PET,12,N,Active,2000,1300,6156869393446
+SKU0050,MAT100050,Aqua Pure 1.5L PET x24,Aqua Pure,Water,1.5L PET,24,N,Active,3790,2310,6150403269053
+SKU0051,MAT100051,Energy Rush 33cl Can x12,Energy Rush,Energy Drink,33cl Can,12,N,Active,2880,1950,6150951659488
+SKU0052,MAT100052,Energy Rush 33cl Can x24,Energy Rush,Energy Drink,33cl Can,24,N,Active,5500,3630,6150795639376
+SKU0053,MAT100053,Energy Rush 40cl PET x12,Energy Rush,Energy Drink,40cl PET,12,N,Active,3160,1920,6153532896106
+SKU0054,MAT100054,Energy Rush 40cl PET x24,Energy Rush,Energy Drink,40cl PET,24,N,Active,6420,4250,6156170563179
+SKU0055,MAT100055,Ice Tea 50cl PET x12,Ice Tea,Tea Drink,50cl PET,12,N,Active,2850,1610,6156503937191
+SKU0056,MAT100056,Ice Tea 50cl PET x24,Ice Tea,Tea Drink,50cl PET,24,N,Active,4740,3020,6155756865116
+SKU0057,MAT100057,Ice Tea 33cl Can x12,Ice Tea,Tea Drink,33cl Can,12,N,Active,2310,1550,6150379677229
+SKU0058,MAT100058,Ice Tea 33cl Can x24,Ice Tea,Tea Drink,33cl Can,24,N,Active,4290,2500,6156547754116
+SKU0059,MAT100059,Malt Spark 33cl Can x12,Malt Spark,Malt Drink,33cl Can,12,N,Active,2590,1640,6153975101458
+SKU0060,MAT100060,Malt Spark 33cl Can x24,Malt Spark,Malt Drink,33cl Can,24,N,Active,4250,2930,6158943330230
+SKU0061,MAT100061,Malt Spark 50cl PET x12,Malt Spark,Malt Drink,50cl PET,12,N,Active,2980,1710,6150948746902
+SKU0062,MAT100062,Malt Spark 50cl PET x24,Malt Spark,Malt Drink,50cl PET,24,N,Active,5040,3290,6154721266084
